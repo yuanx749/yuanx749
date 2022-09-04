@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- A list of my public repositories on this [page](https://yuanx749.github.io/repositories-list/).
+
 <!--
 **yuanx749/yuanx749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
