@@ -18,6 +18,7 @@ Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories
 * [complex_systems](https://yuanx749.github.io/complex_systems/) - A Python package for studying complex systems.
 
 #### Others
++ [auto-sphinx-page-action](https://github.com/yuanx749/auto-sphinx-page-action) - GitHub action that creates website using Sphinx.
 + [flight-cancellation-predictor](https://github.com/yuanx749/flight-cancellation-predictor) - Flight cancellation probability prediction.
 + [repositories-list](https://github.com/yuanx749/repositories-list) - A list of my public repos.
 + [n-body](https://github.com/yuanx749/n-body) - N-body simulation with quadtree, OpenMP parallelized.
