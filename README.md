@@ -29,7 +29,7 @@ Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories
 - [n-body](https://github.com/yuanx749/n-body) - N-body simulation with quadtree, OpenMP parallelized.
 - [docker-flask-redis-celery](https://github.com/yuanx749/docker-flask-redis-celery) - Docker Compose template for web application.
 
-#### <a href="https://github.com/search?q=involves%3Ayuanx749+is%3Apublic&amp;type=pullrequests&amp;s=created&amp;o=desc">Contributions</a>
+#### <a href="https://github.com/search?q=involves%3Ayuanx749&amp;type=pullrequests&amp;s=created&amp;o=desc">Contributions</a>
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
