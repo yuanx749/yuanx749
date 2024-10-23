@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories-list/) to see my public repos.
+Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories-list/) to see my public repos and repos contributed to.
 
 <details>
 <summary>Projects List</summary>
@@ -27,6 +27,11 @@ Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories
 - [repositories-list](https://github.com/yuanx749/repositories-list) - A list of my public repos.
 - [n-body](https://github.com/yuanx749/n-body) - N-body simulation with quadtree, OpenMP parallelized.
 - [docker-flask-redis-celery](https://github.com/yuanx749/docker-flask-redis-celery) - Docker Compose template for web application.
+
+</details>
+
+<details>
+<summary>Contributions</summary>
 
 #### <a href="https://github.com/search?q=involves%3Ayuanx749&amp;type=pullrequests&amp;s=created&amp;o=desc">Contributions</a>
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
