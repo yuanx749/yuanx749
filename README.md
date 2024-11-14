@@ -41,6 +41,7 @@ Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [scverse/scanpy](https://github.com/scverse/scanpy) - Single-cell analysis in Python. Scales to >1M cells.
