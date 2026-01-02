@@ -13,7 +13,7 @@ Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories
 - [py-cdhit](https://yuanx749.github.io/py-cdhit/) - A Python package for CD-HIT, clustering protein or nucleotide sequences.
 - [auto-sphinx-page-action](https://github.com/marketplace/actions/auto-sphinx-page) - GitHub action that creates website using Sphinx.
 - [phasty](https://yuanx749.github.io/phasty/) - A Python interface for PHAST (phylogenetic analysis with space/time models).
-- [config-argument-parser](http://config-argument-parser.readthedocs.io/) - A package to help automatically create command-line interface from configuration or code.
+- [config-argument-parser](https://yuanx749.github.io/config-argument-parser-docs/) - A package to help automatically create command-line interface from configuration or code.
 
 #### Featured Projects
 - [vae-mixin-pytorch](https://yuanx749.github.io/vae-mixin-pytorch/) - Variational autoencoders as mixins.
@@ -41,7 +41,7 @@ Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
