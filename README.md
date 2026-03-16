@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Selected contributions
+- pandas - bug fixes and improvements: [~40 merged pull requests](https://github.com/pandas-dev/pandas/pulls?q=is%3Amerged+is%3Apr+author%3Ayuanx749)
+
 Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories-list/) to see my public repos and repos contributed to.
 
 <details>
