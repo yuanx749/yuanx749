@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Selected contributions
-- pandas - bug fixes and improvements: [~40 merged pull requests](https://github.com/pandas-dev/pandas/pulls?q=is%3Amerged+is%3Apr+author%3Ayuanx749)
-
 Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories-list/) to see my public repos and repos contributed to.
 
 <details>
@@ -25,6 +22,7 @@ Expand :point_down: or visit this [page](https://yuanx749.github.io/repositories
 - [2048-ai-tk](https://yuanx749.github.io/2048-ai-tk/) - 2048 AI in Python with GUI.
 - [genome_analysis](https://yuanx749.github.io/genome_analysis/) - Genome analysis labs.
 <!--  -->
+- [clinical-ims](https://github.com/yuanx749/clinical-ims) - A clinical information management system.
 - [repositories-list](https://github.com/yuanx749/repositories-list) - A list of my public repos.
 - [config-argument-parser-docs](https://github.com/yuanx749/config-argument-parser-docs) - Docs of config-argument-parser.
 - [n-body](https://github.com/yuanx749/n-body) - N-body simulation with quadtree, OpenMP parallelized.
